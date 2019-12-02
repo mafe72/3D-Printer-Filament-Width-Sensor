@@ -45,7 +45,7 @@ Prerequisites
 
 2. Arduino IDE 1.8 or newer.
 
-Software Installation
+Software Configuration
 ---------------------
 Modify Configuration.h and set the appropriate filament with diameter, in this example 1.75mm filament is configured.
 
@@ -58,6 +58,8 @@ Modify Configuration_adv.h on the section Filament Width Sensor, enabled by unco
 Also to constantly display the nominal filament width on your 3D printer display, uncoment the following line.
 
 		#define FILAMENT_LCD_DISPLAY 
+		
+Once done, flash the modified firmware to your printer.
 			
 Hardware Installation
 ---------------------
