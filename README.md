@@ -5,7 +5,7 @@ License
 -------
 <div align="center"><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Attribution-NonCommercial-ShareAlike" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /></div>
 
-This project is licensed under the Attribution-NonCommercial-ShareAlike CC BY-NC-SA 4.0 license. The full legal text of the license may be found in the LICENSE.txt file in this repository. For more information about this license, please visit 
+This project is licensed under the Attribution-NonCommercial-ShareAlike CC BY-NC-SA 4.0 license. The full legal text of the license may be found in the LICENSE.md file in this repository. For more information about this license, please visit 
 the Creative Commons Foundation (https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Features
@@ -23,7 +23,7 @@ Features
 
 * One button calibration mode.
 
-* Compact design (25.71mm x 19.00mm)
+* Compact PCB design (25.71mm x 19.00mm)
 
 * Reverse polarity protection.
 
