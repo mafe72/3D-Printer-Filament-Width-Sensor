@@ -1,5 +1,5 @@
 # 3D Printer Filament Width Sensor
-This is an optical sensor based on the ATtiny85 that measures the plastic filament width in real time as it goes into a 3D printer extruder by using the TSL1401CL sensor.
+This is an optical sensor based on the ATtiny85 - 8-bit AVR Microcontrollerthat measures the plastic filament width in real time as it goes into a 3D printer extruder by using the TSL1401CL sensor.
 
 License
 -------
@@ -24,6 +24,8 @@ Features
 * One button calibration mode.
 
 * Compact PCB design (25.71mm x 19.00mm)
+
+* Operational Voltage: 5V
 
 * Reverse polarity protection.
 
