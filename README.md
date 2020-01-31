@@ -65,7 +65,7 @@ Once done, flash the modified firmware to your printer.
 			
 Hardware Installation
 ---------------------
-The following images display the correcnt pin location for the installation for the Filament Width Sensor.
+The following images display the correct pin location for the installation for the Filament Width Sensor.
 
 * RAMPS 1.4 Pinout.
 ![ramps](pictures/ramps.png)
